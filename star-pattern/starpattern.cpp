@@ -5,7 +5,7 @@ using namespace std;
 int main() {
   // Star Pattern#1
   int sisi;
-  cout << "Masukkan sisi : ";
+  cout << "Masukkan Nilai sisi : ";
   cin >> sisi;
   for (int i = 1; i <= sisi; i++) {
     for (int j = 1; j <= sisi; j++) {
